@@ -1,0 +1,10 @@
+# Las copias de seguridad tienen datos personales y documentos del personal: nunca se suben.
+# Viven fuera de esta carpeta ("007. Sistema de personal\Copias de seguridad"); estas reglas son por si acaso.
+Copias de seguridad/
+*.json
+
+# Archivos del sistema
+.DS_Store
+desktop.ini
+Thumbs.db
+~$*
